@@ -1,0 +1,29 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 17,
+    "terminal.integrated.tabs.enabled": false,
+    "vsfiglet.width": 200,
+    "vsfiglet.font": "small",
+    "vsfiglet.horizontalLayout": "full",
+    "vsfiglet.verticalLayout": "full",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "workbench.editorAssociations": {
+        "*.csv": "default"
+    },
+    "git.autofetch": true,
+    "errorLens.enabledDiagnosticLevels": [
+        "error"
+    ],
+    "liveServer.settings.donotVerifyTags": true,
+    "workbench.activityBar.iconClickBehavior": "focus",
+    "workbench.editor.autoLockGroups": {
+        "java.formatterSettingsEditor": true
+    }
+}
